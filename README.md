@@ -5,7 +5,7 @@
 | Name | SRN |
 |---|---|
 | Mathin M | PES1UG24AM377 |
-| _Teammate name_ | _Teammate SRN_ |
+| Madan P | PES1UG24AM374 |
 
 ## Problem statement
 
