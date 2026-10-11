@@ -1,0 +1,20 @@
+# dataset (download from Kaggle, see README)
+data/*.csv
+data/*.zip
+
+# trained model (regenerate with: python src/train.py)
+models/*.pkl
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

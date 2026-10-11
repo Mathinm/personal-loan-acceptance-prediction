@@ -1,0 +1,35 @@
+{
+  "Perceptron": {
+    "alpha": 0.0001,
+    "penalty": null
+  },
+  "Logistic Regression": {
+    "C": 0.01
+  },
+  "KNN + SMOTE": {
+    "n_neighbors": 5,
+    "weights": "distance"
+  },
+  "SVM": {
+    "C": 10,
+    "kernel": "rbf"
+  },
+  "MLP + SMOTE": {
+    "alpha": 0.0001,
+    "hidden_layer_sizes": [
+      64,
+      32
+    ]
+  },
+  "Random Forest": {
+    "max_depth": 10,
+    "min_samples_leaf": 1,
+    "n_estimators": 400
+  },
+  "XGBoost": {
+    "learning_rate": 0.05,
+    "max_depth": 5,
+    "n_estimators": 400,
+    "scale_pos_weight": 9.4
+  }
+}
